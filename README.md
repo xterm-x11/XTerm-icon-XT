@@ -12,7 +12,7 @@ The black-and-white background of the icon ensures it gets spotted easily and fa
 
 The left half of the icon shows a capital black letter X on a white background that represents the block cursor. Inclusion of the letter X communicates the short designation of the [X Window System (X.org)](https://x.org/). Some users can customize the color of the letter X as described further here if their desktop supports selecting a custom icon for an application.
 
-The right half of the icon shows a light-green letter T, T for Terminal, more specifically for the T in XTerm, on a black background that is the frequent background of a terminal window. The light-green color of the letter T represents the support for 256 colors in XTerm. Some users can customize the color of the letter X as described further here if their desktop supports selecting a custom icon for an application.
+The right half of the icon shows a light-green letter T, T for Terminal, more specifically for the T in XTerm, on a black background that is the frequent background of a terminal window. The light-green color of the letter T represents the support for 256 colors in XTerm. Some users can customize the color of the letter T as described further here if their desktop supports selecting a custom icon for an application.
 
 The simplicity of the logo is meant to represent the minimalist thought that Thomas Dickey put into the XTerm design.
 
