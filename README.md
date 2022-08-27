@@ -58,5 +58,5 @@ The icon files are provided in this repository so that you can customize the col
 3. Edit the colors and save the changes.
 4. Optional: To convert to PNG, open the `.svg` file in [Inkscape](https://inkscape.org/) **> File > Export PNG Image (Shift+Ctrl+E) > Image size 96 pdi > Export**.
 TIP: If the default image-viewing application in your desktop smoothes the pixels automatically by default when you open the `.png` file, you can preview the `.png` file in [GIMP](https://www.gimp.org/).
-5. Optional: To convert to XPM, upload the `.png` file on https://convertio.co/png-xpm/ or find an alternative on [DuckDuckGo](https://duckduckgo.com/?q=convert+svg+to+xpm).
+5. Optional: To convert to XPM, open the `.svg` file in [GIMP](https://www.gimp.org/) **> File > Export (Ctrl+E) > X PixMap image >** rewrite `.svg` as `.xpm` in the file name field **> Export**.
 6. Select the edited, locally saved file as the application icon for XTerm.
