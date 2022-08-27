@@ -45,13 +45,13 @@ Icon sizes:
 * 24×24 px
 * 16×16 px
 
-# User-level customization
+# Color customization for users and desktop theme designers
 
 WARNING: This procedure is yet to be tested and updated after testing.
 
-The icon files are provided to users in this repository so that any XTerm user wishing to customize the colors in their XTerm icon can do. This is in addition to the choice of several XTerm icons that users can already choose from.
+The icon files are provided in this repository so that you can customize the colors in the XTerm icon for your desktop or desktop theme if you want to.
 
-`Inkscape SVG` is kept intentionally to allow XTerm users a smooth editing experience using [Inkscape](https://inkscape.org/).
+`Inkscape SVG` is kept intentionally to allow you a smooth editing experience using [Inkscape](https://inkscape.org/).
 
 1. Download the `.svg` file from this repository.
 2. Open the `.svg` file in [Inkscape](https://inkscape.org/).
