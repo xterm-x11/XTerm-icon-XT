@@ -1,3 +1,5 @@
+Note: This repo will be updated with the T color change to #80FF00 according to https://en.wikipedia.org/wiki/Chartreuse_(color)#Green-yellow
+
 # Application
 
 This alternative, unofficial icon was designed for [XTerm](https://invisible-island.net/xterm/) (the terminal emulator for the [X Window System (X.org)](https://x.org/)) as an alternative to be available for some users and desktop theme designers.
